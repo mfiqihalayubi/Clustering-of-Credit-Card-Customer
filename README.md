@@ -79,8 +79,9 @@ This data is credit card usage information data for the last 6 months.
 
 ## **Business Recommendation**
 
-1. Increase the amount of FAQ data to improve the model's ability to answer specific questions related to administrative aspects.    
-2. We would recommended to use stream processing methods to handle the data of cars sold on the platform so that the model can always receive updated data in real-time.
+1. Give penalties to customers from clusters that have an average percent of full payment value <40%. The goal is to reduce the number of customers who have a high risk of default. Penalties can be done by increasing late fees, reducing tenure for subsequent credit transactions, or reducing cash advance limits. By doing this, it is hoped that credit card holders will become more responsible in making bill payments  
+2. Promotion of credit card and cash advance services needs to be improved and intensified to customers from cluster 5 because these customers have the highest percent of full payment, large average purchase value, and have the lowest average number of cash advance transactions (almost 0)
+3. Reduce the credit limit on customers from cluster 6 because the average percent of full payment is very low (2% in 6 months). The main problem is that, in addition to the low average percent of payment, the majority of customers from this cluster use a risky credit service called cash advance where the company does not have the ability to know what the money is used for and when it will be returned
 
 ## **Room for Improvement**
 
