@@ -1,4 +1,4 @@
-![img](https://miro.medium.com/v2/resize:fit:1400/1*iGdFJTHMIG79N2HChWaooQ.gif)
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgordonkwokch.medium.com%2Fexploring-customer-behavior-a-data-analysis-of-credit-card-dataset-aa3d407a079d&psig=AOvVaw00vfAAriniZSBNiZS8rvfM&ust=1723189239983000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjU8Kzy5IcDFQAAAAAdAAAAABAE)
 
 <center>
 
