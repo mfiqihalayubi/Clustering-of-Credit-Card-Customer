@@ -11,12 +11,15 @@
 <br />
 <br />
 
+## **Background**
+Understanding customer behavior is a basic obligation for a business entity, including credit card companies. Understanding customer behavior in the credit card business can result in more effective marketing activities, product development that is more in line with market conditions, and minimize the risk of payment failure. Understanding customer behavior can be achieved by segmenting customers based on their characteristics while using credit cards. Segmentation can be done by clustering process using machine learning model.
+
 ## **Objective**
-Create a machine learning model that can perform credit card customer clustering.
+Create a machine learning model that can perform credit card customer segmentation.
 
 ## **About the dataset**
 
-This data is credit card usage information data for the last 6 months.
+I took the dataset from Google Cloud BigQuery. This dataset contains 4475 entries of customer historical credit card usage.
 
 ## **Conclusion**
 
