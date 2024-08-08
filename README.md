@@ -85,11 +85,6 @@ This data is credit card usage information data for the last 6 months.
 
 ## **Room for Improvement**
 
-1. Adding more features to the car dataset, such as user reviews, ratings, and historical sales data, can help the model provide more accurate and relevant recommendations.
-2. Implementing deeper contextual understanding techniques, such as using transformer-based models like BERT.
-3. Applying a feedback loop mechanism where users can provide direct feedback on the chatbot's answer quality, which can be used to continuously train and refine the model.
-
-### [**Dataset**](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)
-### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
-### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
-### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/project01)
+1. Removing outliers as one of the trial options in choosing the optimal K value
+2. Increase max iteration to ensure the model converges in determining the centroid
+3. Try clustering models that are more robust to outliers such as DBSCAN or K-Medoids
