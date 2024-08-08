@@ -21,8 +21,11 @@ This data is credit card usage information data for the last 6 months.
 ## **Conclusion**
 
 1. The information retained in the feature dimension reduction is 95% with the final number of dimensions are 10. The decision to retain 95% of the information is based on the reason that the clustering results can represent the data as actual as possible and not eliminate information from features that have extreme values. As we know in the outliers handling process, 13 of the 17 features have an outlier percentage above 8%. To anticipate if at some point the model has to make predictions on a dataset that has many outliers, I decided to retain 95% of the information so that the model gets used to handling datasets like this
+   
 2. Based on the elbow and silhouette scoring methods, the chosen optimal K value is 6. Based on the elbow method, the value 6 is chosen because the decrease in inertia is not too significant or the slope is not too steep when the number of clusters is changed from 6 to 7. Based on the silhouette score method, the value of K = 6 is chosen because this value provides the most balanced datapoint distribution compared to other K values. In addition, the average silhouette score value is not too small compared to the score values ​​of other K values
+   
 3. Based on the sillhouette score test, all trialed K values produce an average score below 0.4. This indicates that the clustering process is not optimal because a small average score value means that the data point does not really fit into its own cluster. Most likely the reason why all the score values obtained are small is because there are a large number of outliers. Outliers have a distance to neighboring data points (1 cluster) that is far enough so that the divisor in the silhouette score formula will be relatively large. As a result, the average silhouette score value will be smaller.
+   
 4. From the clustering results, the population of each cluster is obtained as follows:
   A. Cluster 1: 1795 people (41.6%)
   B. Cluster 2: 560 people (13%)
