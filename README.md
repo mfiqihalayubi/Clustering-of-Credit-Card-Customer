@@ -41,41 +41,41 @@ This data is credit card usage information data for the last 6 months.
     3. Has a very high   risk of default with an average value of percent of full payment of 2% and more than 75% of its customers have a percent of full payment value below 20% in the past 6 months
     4. Quite active in making transactions    with an average transaction of 8 times/customer and an average nominal value transacted of 429.3/customer Tenure range 10 - 12 months
 
-  B. Cluster 2
-  - Has 13% of the total number of customers
-  - The average cash advance value is classified as quite large (419.68) with an average number of cash advance transactions that are relatively small (1 time/customer)
-  - Has a fairly high risk of default large with an average percent of full payment of 23% in the last 6 months
-  - Not very active in making purchases using credit cards with an average transaction of 5 times/customer and an average nominal transaction of 383.9/customer
-  - 75% of customers have a tenure range of 11 - 12 months
+  - Cluster 2
+    1. Has 13% of the total number of customers
+    2. The average cash advance value is classified as quite large (419.68) with an average number of cash advance transactions that are relatively small (1 time/customer)
+    3. Has a fairly high risk of default large with an average percent of full payment of 23% in the last 6 months
+    4. Not very active in making purchases using credit cards with an average transaction of 5 times/customer and an average nominal transaction of 383.9/customer
+    5. 75% of customers have a tenure range of 11 - 12 months
 
-  C. Cluster 3
-  - Has 6.2% of customers from the total number of customers
-  - The average cash advance value is relatively large (1249.94/customer) with an average number of cash advance transactions that are relatively small (3 times/customer)
-  - Has a high risk of default with an average percent of full payment of 15% in the last 6 months
-  - Not very active in making purchases using credit cards with an average transaction is 5 times/customer and an average nominal transaction is 399.9/customer
-  - 75% of customers have a tenure range of 6 - 8 months
+  - Cluster 3
+    1. Has 6.2% of customers from the total number of customers
+    2. The average cash advance value is relatively large (1249.94/customer) with an average number of cash advance transactions that are relatively small (3 times/customer)
+    3. Has a high risk of default with an average percent of full payment of 15% in the last 6 months
+    4. Not very active in making purchases using credit cards with an average transaction is 5 times/customer and an average nominal transaction is 399.9/customer
+    5. 75% of customers have a tenure range of 6 - 8 months
 
-  D. Cluster 4
-  - Has customers as much as 13.1% of the total customers
-  - The average cash advance value is classified as moderate (714.71) with an average number of cash advance transactions that are relatively small (2 times/customer)
-  - Has a fairly large risk of default with an average percent of full payment of 15% in the last 6 months
-  - Cluster with the most active customers in making purchases using credit cards with an average transaction is 58 times/customer
-  - Has the highest average purchase value (4578.03/customer) with the widest purchase value range (0 - 22000)
-  - 75% of customers have a tenure range of 11 - 12 months
+  - Cluster 4
+    1. Has customers as much as 13.1% of the total customers
+    2. The average cash advance value is classified as moderate (714.71) with an average number of cash advance transactions that are relatively small (2 times/customer)
+    3. Has a fairly large risk of default with an average percent of full payment of 15% in the last 6 months
+    4. Cluster with the most active customers in making purchases using credit cards with an average transaction is 58 times/customer
+    5. Has the highest average purchase value (4578.03/customer) with the widest purchase value range (0 - 22000)
+    6. 75% of customers have a tenure range of 11 - 12 months
 
-  E. Cluster 5
-  - Has 10.9% of customers from the total customers
-  - The average cash advance value is very small (42.9/customer) with an average number of cash advance transactions approaching 0/customer
-  - Has a very small risk of default with an average percent of full payment is 68% in the last 6 months
-  - Cluster with customers who are quite active in making purchases using credit cards with an average transaction is 19 times/customer and an average nominal transaction is 1076.18/customer
-  - 75% of customers have a tenure range 9 - 12 months
+  - Cluster 5
+    1. Has 10.9% of customers from the total customers
+    2. The average cash advance value is very small (42.9/customer) with an average number of cash advance transactions approaching 0/customer
+    3. Has a very small risk of default with an average percent of full payment is 68% in the last 6 months
+    4. Cluster with customers who are quite active in making purchases using credit cards with an average transaction is 19 times/customer and an average nominal transaction is 1076.18/customer
+    5. 75% of customers have a tenure range 9 - 12 months
 
-  F. Cluster 6
-  - Has 15.3% of customers from the total number of customers
-  - Cluster with the largest average cash advance value (42024/customer) with an average number of cash advance transactions of 13 times/customer
-  - Cluster with the highest risk of default with an average percent of full payment is 2% in the last 6 months
-  - Cluster with customers who are not very active in making purchases using credit cards with an average transaction is 7 times/customer and an average nominal transaction is 359.19/customer
-  - 75% of customers have a tenure range 11 - 12 months
+  - Cluster 6
+    1. Has 15.3% of customers from the total number of customers
+    2. Cluster with the largest average cash advance value (42024/customer) with an average number of cash advance transactions of 13 times/customer
+    3. Cluster with the highest risk of default with an average percent of full payment is 2% in the last 6 months
+    4. Cluster with customers who are not very active in making purchases using credit cards with an average transaction is 7 times/customer and an average nominal transaction is 359.19/customer
+    5. 75% of customers have a tenure range 11 - 12 months
 
 ## **Business Recommendation**
 
