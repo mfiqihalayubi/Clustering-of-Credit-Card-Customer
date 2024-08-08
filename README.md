@@ -35,11 +35,11 @@ This data is credit card usage information data for the last 6 months.
   F. Cluster 6 : 660 people (15.3%)
 5. Here is the profile of the 6 clusters :
    
-  A. Cluster 1
-  - Has the largest number of customers (41.6%) 
-  - The average cash advance value is classified as moderate (375.16) with an average cash advance transaction that is relatively small (2 times/customer) 
-  - Has a very high   risk of default with an average value of percent of full payment of 2% and more than 75% of its customers have a percent of full payment value below 20% in the past 6 months
-  - Quite active in making transactions    with an average transaction of 8 times/customer and an average nominal value transacted of 429.3/customer Tenure range 10 - 12 months
+  - Cluster 1
+    1. Has the largest number of customers (41.6%) 
+    2. The average cash advance value is classified as moderate (375.16) with an average cash advance transaction that is relatively small (2 times/customer) 
+    3. Has a very high   risk of default with an average value of percent of full payment of 2% and more than 75% of its customers have a percent of full payment value below 20% in the past 6 months
+    4. Quite active in making transactions    with an average transaction of 8 times/customer and an average nominal value transacted of 429.3/customer Tenure range 10 - 12 months
 
   B. Cluster 2
   - Has 13% of the total number of customers
